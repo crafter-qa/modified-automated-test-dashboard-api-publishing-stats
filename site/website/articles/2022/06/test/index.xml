@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b0c1</objectGroupId>
+	<objectId>b0c1a9d7-0bb5-5462-e3c7-5c38a1ce8d54</objectId>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;test&lt;/p&gt;</section_html>
+	</item></sections_o>
+	<internal-name>test</internal-name>
+	<title_t>test</title_t>
+	<subject_t>test</subject_t>
+	<author_s>test</author_s>
+	<file-name>index.xml</file-name>
+	<folder-name>test</folder-name>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<categories_o>	<item>	<key>style</key>
+	<value_smv>Style</value_smv>
+	</item>	<item>	<key>health</key>
+	<value_smv>Health</value_smv>
+	</item>	<item>	<key>entertainment</key>
+	<value_smv>Entertainment</value_smv>
+	</item>	<item>	<key>technology</key>
+	<value_smv>Technology</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item>	<item>	<key>gal</key>
+	<value_smv>Gal</value_smv>
+	</item></segments_o>
+	<summary_t>test</summary_t>
+	<image_s/>
+	<createdDate>2022-06-01T16:48:29.391Z</createdDate>
+	<createdDate_dt>2022-06-01T16:48:29.391Z</createdDate_dt>
+	<lastModifiedDate>2022-06-01T16:48:29.391Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-06-01T16:48:29.391Z</lastModifiedDate_dt>
+	<date_dt>2022-06-01T00:00:00.000Z</date_dt>
+	<date_dt_tz>UTC</date_dt_tz>
+</page>
